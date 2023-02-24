@@ -19,3 +19,8 @@
   color: blueviolet;
   text-transform: bold;
 }
+
+.span {
+  color: blue;
+  font-weight: 500;
+}
